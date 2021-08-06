@@ -1,0 +1,16 @@
+C:\Users\thewa\source\repos\GreyAdministrationManager\bin\Debug\netcoreapp3.1\GreyAdministrationManager.exe
+C:\Users\thewa\source\repos\GreyAdministrationManager\bin\Debug\netcoreapp3.1\GreyAdministrationManager.deps.json
+C:\Users\thewa\source\repos\GreyAdministrationManager\bin\Debug\netcoreapp3.1\GreyAdministrationManager.runtimeconfig.json
+C:\Users\thewa\source\repos\GreyAdministrationManager\bin\Debug\netcoreapp3.1\GreyAdministrationManager.runtimeconfig.dev.json
+C:\Users\thewa\source\repos\GreyAdministrationManager\bin\Debug\netcoreapp3.1\GreyAdministrationManager.dll
+C:\Users\thewa\source\repos\GreyAdministrationManager\bin\Debug\netcoreapp3.1\GreyAdministrationManager.pdb
+C:\Users\thewa\source\repos\GreyAdministrationManager\obj\Debug\netcoreapp3.1\GreyAdministrationManager.csproj.AssemblyReference.cache
+C:\Users\thewa\source\repos\GreyAdministrationManager\obj\Debug\netcoreapp3.1\GreyAdministrationManager.Form1.resources
+C:\Users\thewa\source\repos\GreyAdministrationManager\obj\Debug\netcoreapp3.1\GreyAdministrationManager.csproj.GenerateResource.cache
+C:\Users\thewa\source\repos\GreyAdministrationManager\obj\Debug\netcoreapp3.1\GreyAdministrationManager.AssemblyInfoInputs.cache
+C:\Users\thewa\source\repos\GreyAdministrationManager\obj\Debug\netcoreapp3.1\GreyAdministrationManager.AssemblyInfo.cs
+C:\Users\thewa\source\repos\GreyAdministrationManager\obj\Debug\netcoreapp3.1\GreyAdministrationManager.csproj.CoreCompileInputs.cache
+C:\Users\thewa\source\repos\GreyAdministrationManager\obj\Debug\netcoreapp3.1\GreyAdministrationManager.dll
+C:\Users\thewa\source\repos\GreyAdministrationManager\obj\Debug\netcoreapp3.1\GreyAdministrationManager.pdb
+C:\Users\thewa\source\repos\GreyAdministrationManager\obj\Debug\netcoreapp3.1\GreyAdministrationManager.genruntimeconfig.cache
+C:\Users\thewa\source\repos\GreyAdministrationManager\obj\Debug\netcoreapp3.1\GreyAdministrationManager.Properties.Resources.resources
