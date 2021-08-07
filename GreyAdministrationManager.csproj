@@ -11,6 +11,7 @@
     <Copyright>Copyright © GreyCardinalSoft 2021</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <NeutralLanguage>en-CA</NeutralLanguage>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
