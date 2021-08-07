@@ -24,7 +24,7 @@ namespace GreyAdministrationManager
 
             this.FormBorderStyle = FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
-            this.MinimizeBox = false;
+            this.MinimizeBox = true;
             this.StartPosition = FormStartPosition.CenterScreen;
 
             if (File.Exists( Application.StartupPath + "Settings.gcc" ))
