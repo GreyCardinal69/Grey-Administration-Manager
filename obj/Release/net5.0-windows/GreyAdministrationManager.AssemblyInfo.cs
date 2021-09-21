@@ -11,9 +11,9 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("GreyCardinalSoft")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CardinalSoft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © GreyCardinalSoft 2021")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © CardinalSoft 2021")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A simple windows forms application for quick executable launch.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
