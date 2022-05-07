@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "eNU5Zc8iY0yl/vE7NNn9FRdgtDrneMpcaYvEIw8aENcbi5iaHozuTmt70+NcX5F/MEWSnEFzSU0no2NvwfuDBQ==",
+  "dgSpecHash": "AFt+G5stiBaOEp8NdgnJEH1A1nCPvizAVQ3iT81aWw98DTifyst5LQFfxGjA7UNJeVxIXLWWYAV9sVmSb1L4jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thewa\\source\\repos\\C#\\Finished\\Grey Administration Manager\\GreyAdministrationManager.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\thewa\\source\\repos\\C#\\Grey Administration Manager\\GreyAdministrationManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thewa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

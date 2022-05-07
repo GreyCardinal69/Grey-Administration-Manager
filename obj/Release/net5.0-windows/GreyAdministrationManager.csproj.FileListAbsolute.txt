@@ -20,3 +20,25 @@ C:\Users\thewa\source\repos\GreyAdministrationManager\bin\Release\net5.0-windows
 C:\Users\thewa\source\repos\GreyAdministrationManager\obj\Release\net5.0-windows\Grey Administration Manager.dll
 C:\Users\thewa\source\repos\GreyAdministrationManager\obj\Release\net5.0-windows\ref\Grey Administration Manager.dll
 C:\Users\thewa\source\repos\GreyAdministrationManager\obj\Release\net5.0-windows\Grey Administration Manager.pdb
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\bin\Release\net5.0-windows\Grey Administration Manager.exe
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\bin\Release\net5.0-windows\Grey Administration Manager.deps.json
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\bin\Release\net5.0-windows\Grey Administration Manager.runtimeconfig.json
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\bin\Release\net5.0-windows\Grey Administration Manager.runtimeconfig.dev.json
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\bin\Release\net5.0-windows\Grey Administration Manager.dll
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\bin\Release\net5.0-windows\ref\Grey Administration Manager.dll
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\bin\Release\net5.0-windows\Grey Administration Manager.pdb
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\bin\Release\net5.0-windows\GreyCrammedContainer.dll
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\bin\Release\net5.0-windows\GreyCrammedContainer.xml
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\obj\Release\net5.0-windows\GreyAdministrationManager.csproj.AssemblyReference.cache
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\obj\Release\net5.0-windows\GreyAdministrationManager.Form1.resources
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\obj\Release\net5.0-windows\GreyAdministrationManager.Properties.Resources.resources
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\obj\Release\net5.0-windows\GreyAdministrationManager.csproj.GenerateResource.cache
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\obj\Release\net5.0-windows\GreyAdministrationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\obj\Release\net5.0-windows\GreyAdministrationManager.AssemblyInfoInputs.cache
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\obj\Release\net5.0-windows\GreyAdministrationManager.AssemblyInfo.cs
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\obj\Release\net5.0-windows\GreyAdministrationManager.csproj.CoreCompileInputs.cache
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\obj\Release\net5.0-windows\GreyAdministrationManager.csproj.CopyComplete
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\obj\Release\net5.0-windows\Grey Administration Manager.dll
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\obj\Release\net5.0-windows\ref\Grey Administration Manager.dll
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\obj\Release\net5.0-windows\Grey Administration Manager.pdb
+C:\Users\thewa\source\repos\C#\Grey Administration Manager\obj\Release\net5.0-windows\GreyAdministrationManager.genruntimeconfig.cache
