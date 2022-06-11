@@ -6,13 +6,14 @@
     <UseWindowsForms>true</UseWindowsForms>
     <AssemblyName>Grey Administration Manager</AssemblyName>
     <RootNamespace>GreyAdministrationManager</RootNamespace>
-    <Company>CardinalSoft</Company>
+    <Company>Mikayel Kananov</Company>
     <Description>A simple windows forms application for quick executable launch.</Description>
     <Copyright>Copyright © CardinalSoft 2021</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <NeutralLanguage>en-CA</NeutralLanguage>
     <ApplicationIcon>Icon.ico</ApplicationIcon>
     <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Authors>Mikayel Kananov</Authors>
   </PropertyGroup>
 
   <ItemGroup>

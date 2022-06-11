@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CardinalSoft")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Mikayel Kananov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © CardinalSoft 2021")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A simple windows forms application for quick executable launch.")]
